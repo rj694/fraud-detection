@@ -1,0 +1,12 @@
+data/*.csv
+data/*.zip
+models/*.joblib
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+venv/
+.venv/
+*:Zone.Identifier
+powerbi/*.csv
+powerbi/*.pbix
